@@ -30,3 +30,6 @@ build/
 ### VS Code ###
 .vscode/
 .gradle/*
+
+blog/.gradle/*
+application/.gradle/*
